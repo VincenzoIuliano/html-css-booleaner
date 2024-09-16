@@ -1,0 +1,39 @@
+.nome-titolo {
+    height: 120px;
+    color: white;
+    background-color: cornflowerblue;
+    background-image: url('../img/pattern.png');
+    background-repeat: contain;
+}
+
+.titolo {
+    font-size: 57px;
+    margin-top: 1%;
+    margin-bottom: 0px;
+}
+
+.autore {
+    color: blueviolet;
+}
+
+.sottotitolo {
+    font-size: 20px;
+}
+
+.sottotitolo {
+    color: gray;
+}
+.sottotitolo2 {
+    color: gray;
+}
+
+.importante {
+    background-color: yellow;
+}
+.Tim1 {
+    width: 50%;
+    margin-left: 0cap;
+}
+.Tim2 {
+    width: 43%;
+}
