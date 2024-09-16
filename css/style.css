@@ -1,4 +1,4 @@
-.nome-titolo {
+.booleaner {
     height: 120px;
     color: white;
     background-color: cornflowerblue;
@@ -6,34 +6,64 @@
     background-repeat: contain;
 }
 
+.logo {
+    width: 250px;
+    padding-top: 40px;
+}
 .titolo {
     font-size: 57px;
     margin-top: 1%;
     margin-bottom: 0px;
 }
 
-.autore {
-    color: blueviolet;
-}
-
-.sottotitolo {
+.font-size-20 {
     font-size: 20px;
 }
 
-.sottotitolo {
-    color: gray;
+.blue-violet {
+    color: blueviolet;
 }
-.sottotitolo2 {
+
+.text-gray {
     color: gray;
 }
 
-.importante {
-    background-color: yellow;
-}
 .Tim1 {
     width: 50%;
     margin-left: 0cap;
 }
 .Tim2 {
     width: 43%;
+}
+
+.table-head {
+    background-color: rgb(0, 166, 255);
+    color: white;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    height: 180px;
+    width: 220px;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.grafico {
+    background-image: url(../img/graph.jpg);
+    height: 180px;
+    width: 220px;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
 }
